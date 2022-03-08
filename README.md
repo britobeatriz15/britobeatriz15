@@ -2,7 +2,7 @@
 
 - 😊 Começando no mundo dos DEVS!
 - 🌱 Estudo Java, JavaScript, Html e CSS.
-- 🖥️ Tenho curso Técnico em Informática.
+- 🖥️ Cursei Técnico em Informática.
 - 💬 Tenho em foco a área Front-End.
 - 📫 E-mail: britobeatriz15@gmail.com
 
