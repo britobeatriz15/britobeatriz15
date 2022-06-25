@@ -1,8 +1,8 @@
 ### Olá, meu nome é Beatriz 👋
 
-- 😊 Começando no mundo dos DEVS!
-- 🌱 Estudo Java, JavaScript, Html e CSS.
-- 🖥️ Cursei Técnico em Informática.
+- 😊 Nova no mundo dos DEVS!
+- 🌱 Estudando pela UDEMY, curso: Desenvolvimento Web Completo 2022 - 20 cursos + 20 projetos.
+- 🖥️ Curso concluído: Técnico em Informática.
 - 💬 Tenho em foco a área Front-End.
 - 📫 E-mail: britobeatriz15@gmail.com
 
