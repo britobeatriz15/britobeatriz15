@@ -1,9 +1,9 @@
-### Olá, meu nome é Beatriz 👋
+### Olá, sou a Beatriz 👋
 
-- 😊 Nova no mundo dos DEVS!
-- 🌱 Estudando pela UDEMY, curso: Desenvolvimento Web Completo 2022 - 20 cursos + 20 projetos.
+- 😊 Nova no mundo dos DEVS e dos UX/UI!
+- 🌱 Estudo Engenharia de Software na Cruzeiro do Sul.
+- 🖌 Design UX/UI na Coursera com parceria da Google.
 - 🖥️ Curso concluído: Técnico em Informática.
-- 💬 Tenho em foco a área Front-End.
 - 📫 E-mail: britobeatriz15@gmail.com
 
 <div align="center">
