@@ -1,7 +1,6 @@
 ### Olá, sou a Beatriz 👋
 
-- 😊 Nova no mundo dos DEVS e dos UX/UI!
-- 🌱 Estudo Engenharia de Software na Cruzeiro do Sul.
+- 🌱 Estudo Análise e Desenvolvimento na Cruzeiro do Sul.
 - 🖌 Design UX/UI na Coursera com parceria da Google.
 - 📌 Portfólio: https://britobeatriz15.github.io/meu-portfolio/
 - 🖥️ Curso concluído: Técnico em Informática.
