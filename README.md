@@ -1,7 +1,7 @@
 ### Olá, sou a Beatriz 👋
 
 - 🌱 Estudo Análise e Desenvolvimento na Cruzeiro do Sul.
-- Estudo Testes de aplicações modernas com Cypress - Udemy
+- 💻Estudo Testes de aplicações modernas com Cypress - Udemy
 - 🖌 QA Iniciante: Fundamentos de Teste - Concluído
 - 🖥️ Curso concluído: Técnico em Informática.
 - 📫 E-mail: britobeatriz15@gmail.com
