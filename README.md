@@ -1,8 +1,8 @@
 ### Olá, sou a Beatriz 👋
 
 - 🌱 Estudo Análise e Desenvolvimento na Cruzeiro do Sul.
-- 🖌 Design UX/UI na Coursera com parceria da Google.
-- 📌 Portfólio: https://britobeatriz15.github.io/meu-portfolio/
+- Estudo Testes de aplicações modernas com Cypress - Udemy
+- 🖌 QA Iniciante: Fundamentos de Teste - Concluído
 - 🖥️ Curso concluído: Técnico em Informática.
 - 📫 E-mail: britobeatriz15@gmail.com
  
